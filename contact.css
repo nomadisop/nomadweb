@@ -31,6 +31,7 @@
         grid-template-columns: 1fr 300px 500px;
         margin-top: 200px;
         margin-left:-10px;
-        margin-right:-10px;}
+        margin-right:-10px;
+        position:fixed;}
 
     .lks{color:black;}
